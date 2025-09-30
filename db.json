@@ -1,0 +1,28 @@
+[
+    {
+        "timestamp": "2025-09-30T15:17:06+02:00",
+        "nama": "Rindra Satriatama Putra",
+        "nim": "3337240032",
+        "prodi": "Informatika",
+        "gender": "Laki-laki",
+        "hobi": [
+            "Olahraga",
+            "Musik",
+            "Coding",
+            "Gaming"
+        ],
+        "alamat": "akulah sang raja singa"
+    },
+    {
+        "timestamp": "2025-09-30T15:17:41+02:00",
+        "nama": "Syahrini",
+        "nim": "3337240033",
+        "prodi": "Sistem Informasi",
+        "gender": "Perempuan",
+        "hobi": [
+            "Olahraga",
+            "Coding"
+        ],
+        "alamat": "disfjasdjfaf"
+    }
+]

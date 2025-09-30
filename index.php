@@ -1,6 +1,4 @@
 <?php
-// Simple PHP app: Biodata + Search; stores submissions in data/db.json
-// File paths
 $dataPath = __DIR__ . '/data/db.json';
 
 function load_db($path){
